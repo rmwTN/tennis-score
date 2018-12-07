@@ -12,4 +12,4 @@ mvn clean install
 
 ## Usage
 
-Just run the main method, it will generate a random score for each game
+Just run the main method in the com.game.tennis.Startup class, it will generate a random score for each game
